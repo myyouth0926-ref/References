@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Oracle/개념.md",
+                "file": "주식/진행중/진행중.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개념"
+              "title": "진행중"
             }
           }
         ]
@@ -184,16 +184,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed56661db43ac5a9",
+  "active": "63aab3cadb798914",
   "lastOpenFiles": [
+    "멘탈리티/낙서장.md",
+    "주식/진행중/진행중.md",
+    "주식/정리됨/정리됨.md",
+    "Pasted image 20251112195232.png",
+    "멘탈리티",
+    "Database/Oracle/개념.md",
     "Database/Img/DB_Oracle_Arch.png",
     "Database/Img",
-    "주식/진행중/진행중.md",
-    "Database/Oracle/개념.md",
     "Database/Oracle",
     "Database",
     "무제.md",
-    "주식/정리됨/정리됨.md",
     "주식/정리됨",
     "주식/진행중",
     "주식",
