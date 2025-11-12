@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주식/진행중/진행중.md",
+                "file": "주식/Org/진행중.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,9 +186,10 @@
   },
   "active": "63aab3cadb798914",
   "lastOpenFiles": [
+    "주식/Img",
     "멘탈리티/낙서장.md",
-    "주식/진행중/진행중.md",
-    "주식/정리됨/정리됨.md",
+    "주식/Org/진행중.md",
+    "주식/Unorg/정리됨.md",
     "Pasted image 20251112195232.png",
     "멘탈리티",
     "Database/Oracle/개념.md",
@@ -197,8 +198,8 @@
     "Database/Oracle",
     "Database",
     "무제.md",
-    "주식/정리됨",
-    "주식/진행중",
+    "주식/Unorg",
+    "주식/Org",
     "주식",
     "환영합니다!.md"
   ]
