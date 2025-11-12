@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주식/진행중/진행중.md",
+                "file": "Database/Oracle/개념.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "진행중"
+              "title": "개념"
             }
           }
         ]
@@ -180,14 +180,18 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ed56661db43ac5a9",
   "lastOpenFiles": [
-    "주식/정리됨/정리됨.md",
     "주식/진행중/진행중.md",
+    "Database/Oracle/개념.md",
+    "Database/Oracle",
+    "Database",
     "무제.md",
+    "주식/정리됨/정리됨.md",
     "주식/정리됨",
     "주식/진행중",
     "주식",
