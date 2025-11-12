@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주식/Org/진행중.md",
+                "file": "주식/Org/가치평가지표.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "진행중"
+              "title": "가치평가지표"
             }
           }
         ]
@@ -184,11 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63aab3cadb798914",
+  "active": "ed56661db43ac5a9",
   "lastOpenFiles": [
+    "주식/Img/PER.png",
     "주식/Img",
     "멘탈리티/낙서장.md",
-    "주식/Org/진행중.md",
+    "주식/Org/가치평가지표.md",
     "주식/Unorg/정리됨.md",
     "Pasted image 20251112195232.png",
     "멘탈리티",
