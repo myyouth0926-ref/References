@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c8f891e9407487b",
+        "id": "e5cdf454711ffd40",
         "type": "tabs",
         "children": [
           {
-            "id": "ed56661db43ac5a9",
+            "id": "d9bf16bb0dc7b278",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,19 +184,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed56661db43ac5a9",
+  "active": "d9bf16bb0dc7b278",
   "lastOpenFiles": [
-    "주식/Org/환율이 오르면.md",
+    "Database/Img/DB_Oracle_Arch.png",
     "주식/Org/251114.md",
+    "Pasted image 20251112195232.png",
+    "주식/Org/환율이 오르면.md",
     "주식/Org/가치평가지표.md",
     "주식/Img/PER.png",
     "주식/Img",
     "멘탈리티/낙서장.md",
     "주식/Unorg/정리됨.md",
-    "Pasted image 20251112195232.png",
     "멘탈리티",
     "Database/Oracle/개념.md",
-    "Database/Img/DB_Oracle_Arch.png",
     "Database/Img",
     "Database/Oracle",
     "Database",
