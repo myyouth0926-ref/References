@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주식/Org/251114.md",
+                "file": "주식/Unorg/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251114"
+              "title": "무제"
             }
           }
         ]
@@ -186,15 +186,16 @@
   },
   "active": "d9bf16bb0dc7b278",
   "lastOpenFiles": [
-    "Database/Img/DB_Oracle_Arch.png",
+    "주식/Unorg/환율이 오르면.md",
+    "주식/Unorg/무제.md",
+    "주식/Unorg/정리됨.md",
+    "주식/Unorg/가치평가지표.md",
     "주식/Org/251114.md",
+    "Database/Img/DB_Oracle_Arch.png",
     "Pasted image 20251112195232.png",
-    "주식/Org/환율이 오르면.md",
-    "주식/Org/가치평가지표.md",
     "주식/Img/PER.png",
     "주식/Img",
     "멘탈리티/낙서장.md",
-    "주식/Unorg/정리됨.md",
     "멘탈리티",
     "Database/Oracle/개념.md",
     "Database/Img",
