@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.재정/소비패턴 분석.md",
+                "file": "4.재정/지출목록.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소비패턴 분석"
+              "title": "지출목록"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.재정/소비패턴 분석.md",
+                "file": "4.재정/지출목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "소비패턴 분석 의 백링크"
+              "title": "지출목록 의 백링크"
             }
           },
           {
@@ -185,8 +185,9 @@
   },
   "active": "0b81f8033064c6d8",
   "lastOpenFiles": [
-    "2.주식/daily/251118.md",
     "4.재정/소비패턴 분석.md",
+    "4.재정/지출목록.md",
+    "2.주식/daily/251118.md",
     "3.업무/1.Database",
     "4.재정",
     "2.주식/용어집.md",
