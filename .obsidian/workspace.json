@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.업무/1.Database/1.Basic/(SQLP)_데이터베이스기본_비용_01.md",
+                "file": "1.멘탈리티/어디/1.하고 싶은 것.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(SQLP)_데이터베이스기본_비용_01"
+              "title": "1.하고 싶은 것"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.업무/1.Database/1.Basic/(SQLP)_데이터베이스기본_비용_01.md",
+                "file": "1.멘탈리티/어디/1.하고 싶은 것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(SQLP)_데이터베이스기본_비용_01 의 백링크"
+              "title": "1.하고 싶은 것 의 백링크"
             }
           },
           {
@@ -185,6 +185,7 @@
   },
   "active": "0b81f8033064c6d8",
   "lastOpenFiles": [
+    "3.업무/1.Database/1.Basic/(SQLP)_데이터베이스기본_비용_01.md",
     "1.멘탈리티/어디/1.하고 싶은 것.md",
     "1.멘탈리티/어디/2.하고 있는 것.md",
     "1.멘탈리티/낙서장.md",
@@ -198,7 +199,6 @@
     "2.주식/용어집.md",
     "2.주식/Img/PER.png",
     "2.주식/Img/Iren_251114.png",
-    "3.업무/1.Database/1.Basic/(SQLP)_데이터베이스기본_비용_01.md",
     "3.업무/1.Database/1.Basic",
     "3.업무/1.Database/1.Oracle/개념.md",
     "3.업무/1.Database",
