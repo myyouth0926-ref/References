@@ -11,10 +11,12 @@
             "id": "48e73cb1a31e0545",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "image",
+              "state": {
+                "file": "1.mgmt_pln/99.img/인생조직도.png"
+              },
+              "icon": "lucide-image",
+              "title": "인생조직도"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.mgmt_pln/99.img/인생조직도.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "인생조직도 의 백링크"
             }
           },
           {
@@ -178,17 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63aab3cadb798914",
+  "active": "48e73cb1a31e0545",
   "lastOpenFiles": [
-    "6.문예부",
-    "5.무예부",
-    "4.정신부",
+    "1.mgmt_pln/1.하고 싶은 것.md",
+    "1.mgmt_pln/99.img/인생조직도.png",
     "무제.md",
-    "1.경영기획부/1.하고 싶은 것.md",
-    "3.재정부",
-    "2.감사총무부",
+    "1.mgmt_pln/99.img",
+    "6.health",
+    "5.work",
+    "4.mentality",
+    "3.finance",
+    "2.audit_admin",
     "2.주식/용어집.md",
-    "1.경영기획부",
+    "1.mgmt_pln",
     "2.주식/daily/251118.md",
     "1.멘탈리티/어디/4.고쳐야 하는 것.md",
     "1.멘탈리티/어디/3.해야 하는 것.md",
@@ -207,9 +212,7 @@
     "3.업무/1.Database/1.Basic/(SQLP)_데이터베이스기본_비용_01.md",
     "2.주식/Img/PER.png",
     "2.주식/Img/Iren_251114.png",
-    "3.업무/1.Database/1.Basic",
     "3.업무/1.Database/1.Oracle/개념.md",
-    "3.업무/1.Database",
     "주식/Unorg/가치평가지표.md",
     "주식/Unorg/251114_하락장분석.md",
     "주식/Unorg/환율이 오르면.md",
