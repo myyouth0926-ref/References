@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.멘탈리티/어디/1.하고 싶은 것.md",
+                "file": "3.업무/0.Img/DB_Oracle_Arch.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.하고 싶은 것 의 백링크"
+              "title": "DB_Oracle_Arch 의 백링크"
             }
           },
           {
@@ -183,18 +183,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b81f8033064c6d8",
+  "active": "63aab3cadb798914",
   "lastOpenFiles": [
-    "3.업무/1.Database/1.Basic/(SQLP)_데이터베이스기본_비용_01.md",
+    "4.재정/소비패턴 분석.md",
+    "4.재정/지출목록.md",
     "1.멘탈리티/어디/1.하고 싶은 것.md",
-    "1.멘탈리티/어디/2.하고 있는 것.md",
     "1.멘탈리티/낙서장.md",
     "1.멘탈리티/나/3.깨달음.md",
     "1.멘탈리티/나/2.단점.md",
     "1.멘탈리티/나/1.장점.md",
     "1.멘탈리티/나/0.신념.md",
-    "4.재정/지출목록.md",
-    "4.재정/소비패턴 분석.md",
+    "3.업무/1.Database/1.Basic/(SQLP)_데이터베이스기본_비용_01.md",
+    "1.멘탈리티/어디/2.하고 있는 것.md",
     "2.주식/daily/251118.md",
     "2.주식/용어집.md",
     "2.주식/Img/PER.png",
